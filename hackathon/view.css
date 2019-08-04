@@ -1,0 +1,19 @@
+div{
+    width:150px;
+    height:50px;
+    border:1px solid black;
+}
+
+header,footer{
+    height:50px;
+    border:1px solid black;
+    text-align: center;
+    font-size:30px;
+  }
+  footer{
+    position: fixed;
+    bottom: 10;
+    width:98%;
+    text-align: center;
+  }
+  
